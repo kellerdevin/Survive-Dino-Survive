@@ -4,7 +4,7 @@ using UnityEngine;
 
 public static class GameParameters
 {
-    public static float DinoMoveAmount = 0.01f;
+    public static float DinoMoveAmount = 0.05f;
 
     public static int ExtraLifeSecondsOnScreen = 2;
     public static int ExtraLifeMinimumTimeToCreation = 3;
