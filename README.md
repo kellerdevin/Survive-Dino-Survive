@@ -1,2 +1,2 @@
-# Survive Dino Survive
- CPSC-236 Final Project
+# SurviveDinoSurvive
+ Visual Programming Final Project
